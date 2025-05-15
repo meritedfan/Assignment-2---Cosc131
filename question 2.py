@@ -6,6 +6,8 @@ def float_array(string_list):
     return np.array(string_list, dtype=float)
 
 
+# test code below
+
 stringy_floats = ['2.5', '3.25', '0.25']
 arr = float_array(stringy_floats)
 print(arr)
