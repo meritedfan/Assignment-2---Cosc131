@@ -1,0 +1,64 @@
+lake_id,lake_name,lake_region,tn,tp,chla
+47568,Coopers Lagoon,Coastal,1550.0,8.0,1.95
+38974,Lake Brunner,Grey,218.0,6.0,0.8
+23690,Lake Carrot,Aupouri Lakes,505.0,18.5,5.1
+54737,Lake Dunstan,Upper Clutha,69.0,4.0,1.09
+48177,Lake Ellesmere,Coastal,2200.0,220.0,64.0
+47579,Lake Forsyth,Coastal,810.0,82.0,28.0
+49200,Lake Hakanoa,Waikato,2002.0,120.0,48.0
+12830,Lake Harihari,Waikato,312.0,12.0,2.05
+39225,Lake Haupiri,Grey,389.0,14.0,1.12
+54736,Lake Hawea,Upper Clutha,38.0,2.97,0.12
+23682,Lake Heather,Aupouri Lakes,698.0,32.5,15.15
+4345,Lake Horowhenua,Horowhenua,2590.0,96.0,24.0
+50401,Lake Humuhumu,Pouto Lakes,345.0,13.0,6.5
+50371,Lake Kahuparere,Pouto Lakes,380.0,14.0,6.3
+21918,Lake Kai iwi,Kai Iwi Lakes,329.0,5.0,1.1
+50373,Lake Kanono,Pouto Lakes,380.5,16.0,6.95
+50320,Lake Karaka,Pouto Lakes,418.0,26.0,4.3
+14422,Lake Maratoto,Waikato,1820.0,26.5,6.5
+50314,Lake Mokeno,Pouto Lakes,1019.0,22.5,6.2
+24628,Lake Morehurehu,Aupouri Lakes,444.0,14.0,1.9
+18718,Lake Ngakapua North,Aupouri Lakes,488.0,12.0,4.8
+18717,Lake Ngakapua South,Aupouri Lakes,552.5,15.5,5.55
+23691,Lake Ngatu,Aupouri Lakes,1030.0,10.0,2.95
+15325,Lake Okareka,Rotorua,185.0,10.0,2.7
+14290,Lake Okaro,Rotorua,610.0,29.5,7.5
+54731,Lake Okataina,Rotorua,85.0,12.0,1.7
+1,Lake Onoke,Wairarapa,500.0,32.0,1.28
+1553,Lake Onslow,Central Otago,220.0,20.5,1.3
+32478,Lake Opouahi,Tutira,210.0,13.0,4.95
+50270,Lake Ototoa,Kaipara,282.5,6.25,3.65
+50151,Lake Pupuke,Auckland,260.0,8.5,5.85
+40071,Lake Rerewhakaaitu,Rotorua,327.5,9.0,3.35
+54730,Lake Rotoiti,Rotorua,169.0,22.0,4.75
+18719,Lake Rotokawau (Aupouri),Aupouri Lakes,751.0,17.0,8.05
+50413,Lake Rotokawau (Poutu),Poutu Lakes,365.0,8.0,2.1
+40102,Lake Rotoma,Rotorua,102.5,7.0,1.0
+54733,Lake Rotomahana,Rotorua,186.0,54.0,3.7
+14428,Lake Rotomanuka,Waikato,1050.0,17.5,10.0
+50403,Lake Rotootuauru,Pouto Lakes,876.0,45.0,15.3
+23681,Lake Rotoroa (Northland),Aupouri Lakes,664.0,10.5,2.95
+11133,Lake Rotorua,Rotorua,299.0,18.5,10.05
+25994,Lake Rotorua (Kaikoura),Kaikoura,4000.0,305.0,70.5
+50345,Lake Rototuna,Pouto Lakes,834.0,31.0,9.9
+14425,Lake Serpentine,Waikato,1265.0,26.0,15.0
+21917,Lake Taharoa,Kai Iwi Lakes,129.0,2.0,0.75
+54732,Lake Tarawera,Rotorua,90.0,23.25,1.55
+24633,Lake Te Kahika,Aupouri Lakes,368.5,5.0,0.5
+15312,Lake Tikitapu,Rotorua,168.5,4.0,1.9
+21871,Lake Tomarata,Wellsford,492.5,14.25,6.95
+44599,Lake Tuakitoto,Taieri,1025.0,95.5,2.34
+36981,Lake Tutira,Tutira,410.0,20.0,5.7
+41314,Lake Waahi,Waikato,1096.0,54.0,11.5
+44391,Lake Waihola,Taieri,445.0,47.0,6.1
+24511,Lake Waihopo,Aupouri Lakes,540.5,13.0,3.3
+50782,Lake Waikare,Waikato,3004.0,138.0,110.0
+21926,Lake Waikere,Kai Iwi Lakes,197.0,3.0,1.1
+36980,Lake Waikopiro,Tutira,805.0,24.0,13.85
+17761,Lake Wainui,Pouto Lakes,346.0,15.0,2.2
+19575,Lake Waipara,Aupouri Lakes,406.0,12.0,2.0
+13467,Lake Waiparera,Aupouri Lakes,761.0,21.5,8.95
+49180,Lake Whangape,Waikato,1931.0,113.5,68.0
+12469,Wainono Lagoon,Coastal,1610.0,260.0,31.0
+54742,Waituna Lagoon,Awarua,770.0,27.5,1.85
